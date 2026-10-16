@@ -3,7 +3,7 @@
 
 **Course:** ITAI 2373 – Natural Language Processing  
 **Project:** Midterm Project  
-**Group Members:** Oman, Tobias, Cris, and Mohmmad  
+**Group Members:** Oman Malek, Tobias Chow, Cris Williams, Mahdi Mohammadkhani 
 **Platform:** Google Colab  
 **Programming Language:** Python
 
