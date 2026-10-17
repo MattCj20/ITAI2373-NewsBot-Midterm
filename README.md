@@ -1,12 +1,28 @@
 # NewsBot Intelligence System — ITAI 2373 Midterm Project
 
-## Individual Submission — Tobias Chow
 
-**Course:** ITAI 2373 – Natural Language Processing  
-**Project:** NewsBot Intelligence System  
+## Individual GitHub Submission
+
 **Student:** Tobias Chow  
-**GitHub Account:** [TobiasC05](https://github.com/TobiasC05)  
-**Repository:** [ITAI2373-NewsBot-Midterm](https://github.com/TobiasC05/ITAI2373-NewsBot-Midterm)
+**Course:** ITAI 2373 – Natural Language Processing
+
+This repository is my individual GitHub submission for the NewsBot Intelligence System group midterm project.
+
+The project was collaboratively developed by four team members. This repository was forked from the original group repository to satisfy the individual GitHub submission requirement.
+
+**Original Group Repository:**  
+https://github.com/malekoman14-ship-it/ITAI2373-NewsBot-Midterm
+
+**My Individual Repository:**  
+https://github.com/TobiasC05/ITAI2373-NewsBot-Midterm
+
+### My Contributions
+
+- **Module 3:** TF-IDF Feature Extraction and Analysis
+- **Module 4:** Part-of-Speech Pattern Analysis
+
+All eight NLP modules represent the combined work of the group, and the original team contributions are preserved.
+
 
 ---
 
@@ -114,9 +130,11 @@ These tools support data processing, NLP analysis, visualization, machine learni
 
 ## 5. How to Run the Project in Google Colab
 
+
 ### Step 1: Download the Notebook
 
-Download the completed `NewsBot_Intelligence_System.ipynb` file from this GitHub repository.
+Download the completed [ITAI2373_NewsBot_Midterm.ipynb](ITAI2373_NewsBot_Midterm.ipynb) file from this GitHub repository.
+
 
 ### Step 2: Open Google Colab
 
