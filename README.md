@@ -1,19 +1,22 @@
-# ITAI2373-NewsBot-Midterm
-# NewsBot Intelligence System
+# NewsBot Intelligence System — ITAI 2373 Midterm Project
+
+## Individual Submission — Tobias Chow
 
 **Course:** ITAI 2373 – Natural Language Processing  
-**Project:** Midterm Project  
-**Group Members:** Oman Malek, Tobias Chow, Cris Williams, Mahdi Mohammadkhani 
-**Platform:** Google Colab  
-**Programming Language:** Python
+**Project:** NewsBot Intelligence System  
+**Student:** Tobias Chow  
+**GitHub Account:** [TobiasC05](https://github.com/TobiasC05)  
+**Repository:** [ITAI2373-NewsBot-Midterm](https://github.com/TobiasC05/ITAI2373-NewsBot-Midterm)
+
+---
 
 ## 1. Project Overview
 
-The NewsBot Intelligence System is a Natural Language Processing (NLP) project designed to automatically analyze, organize, and classify news articles.
+The NewsBot Intelligence System is a group-developed Natural Language Processing (NLP) project designed to analyze and classify news articles using techniques covered in Modules 1–8 of ITAI 2373.
 
-The project integrates eight NLP modules to demonstrate how unstructured text can be transformed into meaningful information. It includes text preprocessing, feature extraction, grammatical analysis, sentiment analysis, machine learning classification, and named entity recognition.
+The project uses the BBC News dataset to explore how NLP techniques can extract important information, identify grammatical patterns, analyze sentiment, classify articles, and recognize named entities.
 
-The main objective is to develop an end-to-end NLP workflow that can help users understand and organize large collections of news articles.
+The system demonstrates an integrated NLP pipeline that combines text preprocessing, feature extraction, linguistic analysis, and machine learning.
 
 ## 2. Dataset Information
 
