@@ -3,7 +3,7 @@
 
 ## Individual GitHub Submission
 
-**Student:** Tobias Chow  
+**Student:** Mahdi Mohammadkhani  
 **Course:** ITAI 2373 – Natural Language Processing
 
 This repository is my individual GitHub submission for the NewsBot Intelligence System group midterm project.
