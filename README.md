@@ -14,7 +14,7 @@ The project was collaboratively developed by four team members. This repository 
 https://github.com/malekoman14-ship-it/ITAI2373-NewsBot-Midterm
 
 **My Individual Repository:**  
-https://github.com/TobiasC05/ITAI2373-NewsBot-Midterm
+(https://github.com/MattCj20/ITAI2373-NewsBot-Midterm/tree/main)
 
 ### My Contributions
 
