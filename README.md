@@ -18,8 +18,8 @@ https://github.com/malekoman14-ship-it/ITAI2373-NewsBot-Midterm
 
 ### My Contributions
 
-- **Module 3:** TF-IDF Feature Extraction and Analysis
-- **Module 4:** Part-of-Speech Pattern Analysis
+- **Module 7:** Text classification
+- **Module 8:** named entity recognition
 
 All eight NLP modules represent the combined work of the group, and the original team contributions are preserved.
 
